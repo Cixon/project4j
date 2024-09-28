@@ -15,11 +15,11 @@ assignees: ''
 *optional*
 
 
-## Are you able to created the idea yourself?
+## Can you make the idea yourself?
 Y/N? -
 
 
-## If yes, are you willing to help?
+## ^If yes and considered, are you willing to help?
 Y/N? -
 
 
