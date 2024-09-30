@@ -8,7 +8,8 @@ assignees: ''
 ---
 
 ## What is your idea/suggestion?
-< insert here >
+- [ ] Yes
+- [ ]  No
 
 
 ## Images
@@ -20,7 +21,11 @@ Y/N? -
 
 
 ## ^If yes and considered, are you willing to help?
-Y/N? -
+- [ ] Yes
+- [ ] No
+
+- [ ] Probably
+< explain here >
 
 
 ## Any alternatives?
