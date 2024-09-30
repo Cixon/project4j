@@ -20,5 +20,7 @@ assignees: ''
 
 
 ## Did you change any config/mods or add new mods?
+input 'x' in box.
+
 - [ ] Yes
 - [ ] No
