@@ -8,8 +8,7 @@ assignees: ''
 ---
 
 ## What is your idea/suggestion?
-- [ ] Yes
-- [ ]  No
+< type here >
 
 
 ## Images
@@ -17,10 +16,14 @@ assignees: ''
 
 
 ## Can you make the idea yourself?
-Y/N? -
+input 'x' in box.
+
+- [ ] Yes
+- [ ]  No
 
 
 ## ^If yes and considered, are you willing to help?
+input 'x' in box.
 - [ ] Yes
 - [ ] No
 
