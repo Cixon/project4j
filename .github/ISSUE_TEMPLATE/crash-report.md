@@ -14,8 +14,11 @@ assignees: ''
 ## Crash report:
 
 
+
 ## Latest.log:
 
 
+
 ## Did you change any config/mods or add new mods?
-Y/N -
+- [ ] Yes
+- [ ] No

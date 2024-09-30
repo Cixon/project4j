@@ -2,7 +2,7 @@
 name: Bug report
 about: Visual bug, FPS or TPS lag, broken enemy AI, etc.
 title: "[bug]"
-labels: bug
+labels: bug, suggestion
 assignees: ''
 
 ---
