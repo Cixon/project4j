@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 ## What is your idea/suggestion?
-< type here >
+
 
 
 ## Images
@@ -18,19 +18,18 @@ assignees: ''
 ## Can you make the idea yourself?
 input 'x' in box.
 
-- [ ] Yes
-- [ ]  No
+- [] Yes
+- []  No
 
 
 ## ^If yes and considered, are you willing to help?
 input 'x' in box.
 
-- [ ] Yes
-- [ ] No
+- [] Yes
+- [] No
 
-- [ ] Probably
-< explain here >
+- [] Probably
+< erase and explain >
 
 
 ## Any alternatives?
-< insert here >
