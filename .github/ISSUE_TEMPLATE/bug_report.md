@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Which version of the modpack are you using?**
-< insert here >
+< erase and explain >
 
 ## Describe the bug
 A clear and concise description of what the bug is.
@@ -23,7 +23,7 @@ Steps to reproduce the behavior:
 
 
 ## What is suppose to happen?
-< insert here >
+< erase and explain >
 
 ## Screenshots
 *optional*
